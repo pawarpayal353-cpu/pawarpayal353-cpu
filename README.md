@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Payal Pawar</h1>
-<h3 align="center">CSE Student | DSA Enthusiast | C++ &  Learner</h3>
+<h3 align="center">CSE Student | DSA Enthusiast | C++ & C Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=DSA+Practitioner;Problem+Solver;Always+Learning" alt="Typing SVG" />
