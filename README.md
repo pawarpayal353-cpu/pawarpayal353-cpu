@@ -58,6 +58,14 @@
 
 ---
 
+### 📊 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawarpayal353-cpu&theme=radical&hide_border=true&area=true" alt="Payal's Contribution Graph"/>
+</p>
+
+
+---
+
 ### 💡 Dev Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
