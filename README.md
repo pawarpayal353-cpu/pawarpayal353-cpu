@@ -20,6 +20,7 @@
 - 💻 Practicing problems daily 
 - 📚 Exploring **Technology+ Practice**
 - 📫 Reach me at: `pawarpayal353@gmail.com`
+- 📫 Reach me at: `https://www.instagram.com/its_payalpawar007/`
 - completed c language study
 - soon to start dsa
 - started study of cpp .....
