@@ -30,8 +30,8 @@
   <a href="https://github.com/pawarpayal353-cpu" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR-LINKEDIN-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="(https://www.instagram.com/its_payalpawar007/)" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0A66C2?style=for-the-badge&logo=INSTAGRAM&logoColor=white" />
   </a>
   <a href="mailto:pawarpayal353@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
