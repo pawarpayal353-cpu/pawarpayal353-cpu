@@ -21,7 +21,8 @@
 - 📚 Exploring **Technology+ Practice**
 - 📫 Reach me at: `pawarpayal353@gmail.com`
 - completed c language study
-- soon to start dsa 
+- soon to start dsa
+- started study of cpp .....
 
 ---
 
