@@ -74,7 +74,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
-*This auto-updates with a new coding quote daily*
 
 ---
 
