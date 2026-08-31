@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 - 🌱 Currently learning **Data Structures & Algorithms in C++**
-- 💻 Practicing problems daily 
+- 💻 Practicing problems daily  
 - 📚 Exploring **Technology+ Practice**
 - 📫 Reach me at: `pawarpayal353@gmail.com`
 - 📫 Reach me at: `https://www.instagram.com/its_payalpawar007/`
