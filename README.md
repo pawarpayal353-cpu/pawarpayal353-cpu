@@ -63,12 +63,12 @@
 <p align="center">
   <a href="https://github.com/pawarpayal353-cpu">
     <img src="https://github.com/pawarpayal353-cpu.png" width="90" style="border-radius:50%" /><br/>
-    <b>Payal Pawar</b><br/>Lead
+    <b>Payal Pawar</b><br/>Member
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/aj9446435-code">
     <img src="https://github.com/aj9446435-code.png" width="90" style="border-radius:50%" /><br/>
-    <b>aj9446435-code</b><br/>Collaborator
+    <b>aj9446435-code</b><br/>Member
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pranjalbhosale892-oss">
