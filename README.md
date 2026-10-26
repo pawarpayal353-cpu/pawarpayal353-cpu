@@ -17,12 +17,12 @@
 ### 🚀 About Me
 - 🌱 Currently learning **Data Structures & Algorithms in C++**
 - 💻 Practicing problems daily  
-- 📚 Exploring **Technology+ Practice**
+- 📚 Exploring **Technology + Practice**
 - 📫 Reach me at: `pawarpayal353@gmail.com`
-- 📫 Reach me at: `https://www.instagram.com/its_payalpawar007/`
-- completed c language study
-- soon to start dsa
-- started study of cpp .....
+- 📸 Instagram: `https://www.instagram.com/its_payalpawar007/`
+- ✅ Completed C language study
+- 🔜 Soon to start DSA
+- 👩‍💻 Started study of Cpp
 
 ---
 
@@ -31,12 +31,30 @@
   <a href="https://github.com/pawarpayal353-cpu" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="(https://www.instagram.com/its_payalpawar007/)" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0A66C2?style=for-the-badge&logo=INSTAGRAM&logoColor=white" />
+  <a href="https://www.instagram.com/its_payalpawar007/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:pawarpayal353@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+### 📸 My Instagram Progress - LIVE
+<p align="center">
+  <a href="https://www.instagram.com/its_payalpawar007/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-its__payalpawar007-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/INSTAGRAM-Followers-blue?style=flat-square&logo=instagram" />
+  <img src="https://img.shields.io/badge/Profile-Public-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Content-Tech%20%2B%20Life-orange?style=flat-square" />
+</p>
+<p align="center">
+  <b>🔗 Complete Link:</b> https://www.instagram.com/its_payalpawar007/ <br/>
+  <i>CSE Journey + DSA + Daily Learning Updates on Insta</i>
 </p>
 
 ---
@@ -66,7 +84,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawarpayal353-cpu&theme=radical&hide_border=true&area=true" alt="Payal's Contribution Graph"/>
 </p>
 
-
 ---
 
 ### 💡 Dev Quote of the Day
@@ -84,17 +101,4 @@
 
 <p align="center">
 From <b>pawarpayal353-cpu</b> with ❤️ Show some love by starring the repos! ⭐
-</p>
-<!--
-**pawarpayal353-cpu/pawarpayal353-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/pawarpayal353-cpu/CPP-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawarpayal353-cpu&repo=CPP-practice&theme=radical" />
-  </a>
-  <a href="https://github.com/pawarpayal353-cpu/C-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawarpayal353-cpu&repo=C-practice&theme=radical" />
-  </a>
 </p>
