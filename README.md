@@ -11,6 +11,11 @@
   <img src="https://img.shields.io/github/followers/pawarpayal353-cpu?label=FOLLOWERS&color=5865F2&style=for-the-badge" alt="followers" />
   <img src="https://img.shields.io/github/stars/pawarpayal353-cpu?label=STARS&color=FFD700&style=for-the-badge" alt="stars" />
 </p>
+<p align="center">
+  <a href="https://netra-x-sih26127.netlify.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-NETRA--X-00C7B7?style=for-the-badge&logo=netlify" /></a>
+  <a href="https://youtu.be/INuE4WxD9IM?si=zueVmkZ5s9doOwuw" target="_blank"><img src="https://img.shields.io/badge/DEMO-VIDEO-FF0000?style=for-the-badge&logo=youtube" /></a>
+  <a href="https://github.com/pawarpayal353-cpu/netra-x-sih26127" target="_blank"><img src="https://img.shields.io/badge/SIH-SIh26127-orange?style=for-the-badge" /></a>
+</p>
 
 ---
 
@@ -18,6 +23,7 @@
 - 🌱 Currently learning **Data Structures & Algorithms in C++**
 - 💻 Practicing problems daily  
 - 📚 Exploring **Technology + Practice**
+- 👁️ SIH 2025 - Project **NETRA-X [Live](https://netra-x-sih26127.netlify.app)** | [Video](https://youtu.be/INuE4WxD9IM?si=zueVmkZ5s9doOwuw)
 - 📫 Reach me at: `pawarpayal353@gmail.com`
 - 📸 Instagram: `https://www.instagram.com/its_payalpawar007/`
 - ✅ Completed C language study
@@ -74,6 +80,15 @@
 <p align="center">
   <a href="https://github.com/aj9446435-code"><img src="https://img.shields.io/badge/Team%20Member-aj9446435--code-181717?style=flat-square&logo=github" /></a>
   <a href="https://github.com/pranjalbhosale892-oss"><img src="https://img.shields.io/badge/Team%20Member-pranjalbhosale892--oss-181717?style=flat-square&logo=github" /></a>
+</p>
+
+---
+
+### 👁️ NETRA-X - Links & Prototype
+<p align="center">
+  <a href="https://netra-x-sih26127.netlify.app">🌐 Live</a> •
+  <a href="https://youtu.be/INuE4WxD9IM?si=zueVmkZ5s9doOwuw">🎥 Prototype Video</a> •
+  <a href="https://github.com/pawarpayal353-cpu/netra-x-sih26127">💻 Repo</a>
 </p>
 
 ---
